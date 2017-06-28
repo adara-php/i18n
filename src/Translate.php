@@ -26,7 +26,6 @@ class Translate
 
     public function __construct($locale, $domain, $directory)
     {
-        var_dump("TEST");
         $this->locale    = $locale;
         $this->domain    = $domain;
         $this->directory = $directory;
