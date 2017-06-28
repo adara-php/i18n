@@ -11,7 +11,8 @@
     "autoload": {
         "psr-4": {
             "Adara\\i18n\\": "src"
-        }
+        },
+        "files": ["src/func.php"]
     },
     "minimum-stability": "dev",
     "prefer-stable": true
