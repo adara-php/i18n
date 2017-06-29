@@ -1,6 +1,6 @@
 
 {
-    "name": "adaraphp/i18n",
+    "name": "adara/i18n",
     "description": "Manage i18n",
     "keywords": ["fernandopetry", "php", "i18n"],
     "type": "library",
